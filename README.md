@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Generative AI, Deep Learning, Machine Learning**
 
-- 👯 I’m looking to collaborate on **Machine learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 💬 Ask me about **machine learning,data science**
+- 💬 Ask me about **Machine Learning, Data Science**
 
 - 📫 How to reach me **mayur.dabade21@vit.edu**
 
