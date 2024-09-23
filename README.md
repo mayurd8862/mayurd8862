@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur</h1>
-<h3 align="center">Learning, adapting, and innovating in the world of AI 👨‍💻</h3>
+<h3 align="center">Crafting little monsters to automate your tasks with GenAI 👾👨‍💻</h3>
 
 <hr>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/mayurdabade99" target="blank"><img src="https://img.shields.io/twitter/follow/mayurdabade99?logo=twitter&style=for-the-badge" alt="mayurdabade99" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI, Deep Learning, Machine Learning**
+- 🌱 Currently Exploring **Generative AI, Deep Learning, Machine Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 Open to teaming up on exciting **ML & GenAI Projects !**
 
 - 💬 Ask me about **Machine Learning, Data Science**
 
 - 📫 How to reach me **mayur.dabade21@vit.edu**
 
-- ⚡ Fun fact **I am funny😊**
+- ⚡ Fun fact **I believe laughter is the best code debugger!😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
